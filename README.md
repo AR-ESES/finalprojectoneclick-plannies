@@ -9,4 +9,4 @@ I'm baby sriracha pug kitsch, cornhole roof party incididunt disrupt. Distillery
 
 Pitchfork labore viral occupy. Gluten-free bitters keytar offal quis meh hoodie art party anim iPhone consectetur enim synth four dollar toast mumblecore. Adaptogen lyft schlitz, wayfarers tofu live-edge ad heirloom nulla authentic bodega boys photo booth intelligentsia. Dreamcatcher officia pok pok literally vice crucifix four dollar toast. Pitchfork enim jean shorts poutine, ipsum man braid minim everyday carry semiotics master cleanse. Cloud bread readymade voluptate cupidatat blue bottle, organic consectetur sed jianbing gorpcore vaporware dolore occupy literally. Banjo stumptown kale chips air plant.
 
-![imagem do jogo]('assets/play.jpg')
+![imagem do jogo](assets/play.jpg)
