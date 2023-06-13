@@ -16,12 +16,12 @@
 •	O jogo funciona apenas com um clique, o jogador necessita de continuar a premir o ecrã de forma a evitar que a astronauta embata contra os obstáculos e capture todos os planetas.
 •	Sempre que se choca contra um obstáculo o jogo termina e regressa ao início. Quando se chega ao Sol o jogo dá-se por terminado, indicando ao jogador que obteve a vitória.
 
- ![imagem do jogo](assets/win.jpg)
- ![imagem do jogo](assets/gameover.jpg)
+ ![imagem do jogo](assets/you win.jpg)
+ ![imagem do jogo](assets/game over.jpg)
 
 ## Como forma de divulgação elaboramos uma capa de telemóvel com o tema do jogo.
 
-![imagem do jogo](assets/capa.png)
+![imagem do jogo](assets/capa de telemóvel.png)
 
 ## Para saber um pouco mais sobre Plannies, visualize o seguinte video: 
 
